@@ -1,14 +1,14 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "io.github.cosmikyu",
+		"id": "cool_ass_mod",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "Cool Ass Mod",
+			"description": "This is just a compilation of multiple ideas",
 			"contributors": {
-				"Your name here": "Owner"
+				"Your name here": "Cosmikyu, Void"
 			},
 			"contact": {
 				"homepage": "https://example.com/",
